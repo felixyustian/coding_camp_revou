@@ -1,7 +1,7 @@
-# RevoU Coding Camp Mini Project - September 2025
+# RevoU Coding Camp Mini Project - September 2025 Batch
 
 
-This repository contains the source code for the Mini Project completed during the **RevoU Software Engineering Coding Camp** (September 2025). It serves as a practical implementation of fundamental web development concepts, including HTML structure, CSS styling, and JavaScript interactivity.
+This repository contains the source code for the Mini Project completed during the **RevoU Software Engineering Coding Camp** (September 2025 Batch). It serves as a practical implementation of fundamental web development concepts, including HTML structure, CSS styling, and JavaScript interactivity.
 
 ## 🚀 Project Overview
 
@@ -48,7 +48,7 @@ Double-click on index.html to open it in your default web browser.
 ## 🎓 Credits
 Institution: RevoU
 
-Program: Software Engineering Coding Camp
+Program: Software Engineering Coding Camp - September 2025 Batch
 
 Author: Felix Yustian Setiono
 
