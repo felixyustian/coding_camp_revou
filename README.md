@@ -45,7 +45,7 @@ Navigate to the project folder.
 
 Double-click on index.html to open it in your default web browser.
 
-##🎓 Credits
+## 🎓 Credits
 Institution: RevoU
 
 Program: Software Engineering Coding Camp
